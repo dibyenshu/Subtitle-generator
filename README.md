@@ -1,12 +1,12 @@
 # Subtitle-generator
 Generates the subtitles file(.srt) for a video using google speech api
 
-#Install the following before getting started:
+Install the following before getting started:
 1.Install python 3.6
 2.Install ffmpeg (provides free CLI for multimedia editing)
 3.Install google cloud services
 
-#Steps/ Instructions:-
+Steps/Instructions:-
 1.Copy all the scripts to the windows directory G:\SIH\
 2.Rename the video that you want to get the subtitle of to "test" (without quotes) and put it in the folder
 3.Make a google cloud services acount with subscription and a storage with bucket name <urname>
