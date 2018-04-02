@@ -16,7 +16,7 @@ Steps/Instructions:
   6.  Run the python script "RUN_IT.py" and wait for the subtitles.srt to appear in the folder <br />
   (usually takes around half of the video time)<br />
   7.  If you want to reuse it<br />
-    1.  delete audio.flac from the folder<br />
-    2.  delete subtitles.srt from the folder<br />
-    3.  delete from your google cloud services bucket the audio.flac audio file<br />
-    4.  Now you can use RUN_IT.py again<br />
+    a.  delete audio.flac from the folder<br />
+    b.  delete subtitles.srt from the folder<br />
+    c.  delete from your google cloud services bucket the audio.flac audio file<br />
+    d.  Now you can use RUN_IT.py again<br />
